@@ -24,5 +24,5 @@ NewsWeb is a simple news website created using HTML, CSS, and JavaScript. It all
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/NewsWeb.git
+   git clone http://127.0.0.1:5501/index.html
    cd NewsWeb
