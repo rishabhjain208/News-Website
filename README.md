@@ -14,8 +14,10 @@ NewsWeb is a simple news website created using HTML, CSS, and JavaScript. It all
 - HTML
 - CSS
 - JavaScript
+- RAPID API
 - Font Awesome (for icons)
 - Google Fonts (Poppins font)
+  
 
 ## How to Use
 
